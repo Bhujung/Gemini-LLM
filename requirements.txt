@@ -1,3 +1,4 @@
 # pacakages haru basxa
 streamlit
+python-dotenv
 google-genai
